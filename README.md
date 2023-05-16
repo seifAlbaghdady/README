@@ -7,7 +7,29 @@
 
 
 - 📫 How to reach me **seif.albaghdady0@gmail.com**
-<h3 align="left">Welcome to my GitHub repository! I am a DevOps Engineer with expertise in Docker, Kubernetes, and Node.js backend development. This repository contains projects and code snippets related to these areas, showcasing my skills and experience in the field.</h3>
+<h3 align="left">Welcome to my GitHub repository! I am a DevOps Engineer with expertise in Docker, Kubernetes, and Node.js backend development. This repository contains projects and code snippets related to these areas, showcasing my skills and experience in the field.
+</h3>
+<h3 align="left">Objective: Highly skilled and motivated DevOps Engineer with expertise in
+Docker, Kubernetes, and AWS. Seeking a challenging role where I can contribute
+my technical knowledge and passion for automation to optimize software
+development and deployment processes.</h3>
+<h3 align="left"> 
+1- Zombie Village Game Engine (C++/OpenGL): Developed a simple game engine using C++ and OpenGL to create a zombie-themed village game. Implemented various game mechanics and graphics rendering techniques.
+
+2- Web Testing with Selenium: Used Selenium, a web testing framework, to automate testing of web applications. Developed test scripts to validate functionality, perform regression testing, and ensure compatibility across different browsers.
+
+3- Flappy Bird Game (Lua): Created a clone of the popular game "Flappy Bird" using Lua scripting language. Implemented the game mechanics, graphics, and user interface, providing an enjoyable gaming experience.
+
+4- Mars Exploration with Data Structures: Developed a program for simulating Mars exploration using various data structures. Implemented algorithms to navigate the simulated Martian surface, analyze data, and make decisions based on the collected information.
+
+5- Monopoly Snakes Game (C++): Created a Monopoly-inspired game with snakes as a theme. Implemented the core game logic, including player movement, property ownership, and interactions with snakes. Developed a graphical user interface for an immersive gaming experience.
+
+6- Data-Link-Layer-Protocols Simulation (NED): Designed and simulated data link layer protocols using the NED (Network Description) language. Developed models for various protocols, such as Ethernet and Wi-Fi, and evaluated their performance and reliability through simulations.
+
+7- League of Legends Association Rule Mining: Conducted association rule mining on game data from League of Legends. Extracted patterns and relationships between in-game events, player actions, and game outcomes to gain insights into strategies, player behavior, and balance issues.
+
+8- Simple 6-Stage Pipelined Processor (Harvard Architecture, VHDL): Designed and implemented a simplified 6-stage pipelined processor using VHDL. Modeled the processor's architecture, instruction set, and pipelining stages. Simulated the processor's functionality and performance to evaluate its efficiency and correctness.<h3>
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/seif-albaghdady-1283491b5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/seif-albaghdady-1283491b5/" height="30" width="40" /></a>
