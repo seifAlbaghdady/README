@@ -14,6 +14,7 @@ Docker, Kubernetes, and AWS. Seeking a challenging role where I can contribute
 my technical knowledge and passion for automation to optimize software
 development and deployment processes.</h3>
 <h3 align="left"> 
+ 
 1- Zombie Village Game Engine (C++/OpenGL): Developed a simple game engine using C++ and OpenGL to create a zombie-themed village game. Implemented various game mechanics and graphics rendering techniques.
 
 2- Web Testing with Selenium: Used Selenium, a web testing framework, to automate testing of web applications. Developed test scripts to validate functionality, perform regression testing, and ensure compatibility across different browsers.
