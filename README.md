@@ -1,4 +1,4 @@
-<img style="width: 100%;" alt="Coding" src="https://res.cloudinary.com/practicaldev/image/fetch/s--0MuHGhPX--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/o1rky9nsuvrauo3s3wmz.gif">
+
 
 <h1 align="center">Hi 👋, I'm Seif Albaghdady</h1>
 <h3 align="center">A Computer Engineer</h3>
